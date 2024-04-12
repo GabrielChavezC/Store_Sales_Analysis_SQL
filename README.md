@@ -1,7 +1,7 @@
 # 💸Store Sales Analysis SQL📊
 
 
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Objetivo 📋
 
@@ -70,8 +70,15 @@ insights que guíen sus decisiones y respondan a las siguientes preguntas clave:
  la identificación de oportunidades y la optimización de estrategias. Al evaluar las ventas regionales, 
  se pueden adaptar tácticas de marketing, segmentar clientes, medir el rendimiento y anticipar tendencias. 
  En resumen, el análisis de ventas de una región es una herramienta clave para comprender el mercado 
- y lograr un crecimiento sostenible. 🌟📊
+ y lograr un crecimiento sostenible. 🌟📊📝
 
+# Creadores del proyecto: 💻
 
+- **Isaias Mamani** 
+- **Gabriel Chavez** 
+- **Víctor Carracedo**
 
+## Agradecimientos especiales:
+
+- **Alejandro Gamarra:** Instructor del Bootcamp. 📝🎓
 
