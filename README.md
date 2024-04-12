@@ -74,8 +74,8 @@ insights que guíen sus decisiones y respondan a las siguientes preguntas clave:
 
 # Creadores del proyecto:
 
-- **Isaias:** 
-- **Gabriel Chavez:** 
+- **Isaias** 
+- **Gabriel Chavez** 
 - **Víctor Carracedo**
 
 ## Agradecimientos especiales:
