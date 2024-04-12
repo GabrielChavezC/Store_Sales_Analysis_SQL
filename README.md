@@ -73,5 +73,15 @@ insights que guíen sus decisiones y respondan a las siguientes preguntas clave:
  y lograr un crecimiento sostenible. 🌟📊📝
 
 
+# Colaboradores:
+
+- **Isaías** .
+- **Víctor Carracedo**.
+- **Gabriel Chavez**.
+
+## Agradecimientos especiales:
+
+- **Alejandro Gamarra:** Instructor del Bootcamp.
+- **Silvia Branco:** Especialista en Recursos Humanos.
 
 
