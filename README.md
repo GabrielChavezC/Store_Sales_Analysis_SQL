@@ -72,13 +72,13 @@ insights que guíen sus decisiones y respondan a las siguientes preguntas clave:
  En resumen, el análisis de ventas de una región es una herramienta clave para comprender el mercado 
  y lograr un crecimiento sostenible. 🌟📊📝
 
-# Creadores del proyecto:
+# Creadores del proyecto: 💻
 
-- **Isaias** 
+- **Isaias Mamani** 
 - **Gabriel Chavez** 
 - **Víctor Carracedo**
 
 ## Agradecimientos especiales:
 
-- **Alejandro Gamarra:** Instructor del Bootcamp.
+- **Alejandro Gamarra:** Instructor del Bootcamp. 📝🎓
 
