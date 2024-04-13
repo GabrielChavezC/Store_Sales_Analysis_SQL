@@ -67,9 +67,9 @@ insights que guíen sus decisiones y respondan a las siguientes preguntas clave:
 ![pregunta7](https://github.com/GabrielChavezC/Store_Sales_Analysis_SQL/assets/155968191/c02a6cc7-fa37-417b-8e8e-55f0a3c7a71f)
 
 # Conclusión 💯
-El análisis de los datos revela importantes insights sobre el negocio que pueden guiar estratégicamente las decisiones de la tienda online de moda.
-Se identificó el Top 5 de productos más vendidos históricamente, lo cual permite enfocar esfuerzos en estos artículos clave. También se analizó la evolución de los ingresos netos y los patrones por vendedor y ciudad/región.
-Para impulsar el rendimiento, se recomienda profundizar en el análisis de la condición de los productos, investigar a fondo el repunte del 24/11/2019 y aprovechar las oportunidades en las ciudades y regiones más rentables. 🌟📊📝
++ El análisis de los datos revela importantes insights sobre el negocio que pueden guiar estratégicamente las decisiones de la tienda online de moda.
++ Se identificó el Top 5 de productos más vendidos históricamente, lo cual permite enfocar esfuerzos en estos artículos clave. También se analizó la evolución de los ingresos netos y los patrones por vendedor y ciudad/región.
++ Para impulsar el rendimiento, se recomienda profundizar en el análisis de la condición de los productos, investigar a fondo el repunte del 24/11/2019 y aprovechar las oportunidades en las ciudades y regiones más rentables. 🌟📊📝
 
 # Creadores del proyecto: 💻
 
