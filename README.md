@@ -49,7 +49,8 @@ insights que guíen sus decisiones y respondan a las siguientes preguntas clave:
 
 ## **Pregunta 2.1:¿Cuál es la causa del repunte del día 24 de Nov del 2019? (insight extra)** 📆
 
-![pregunta4](https://github.com/GabrielChavezC/Store_Sales_Analysis_SQL/assets/155968191/db6f3524-b8eb-417f-bd25-23ede431152b)
+![pregunta4](https://github.com/GabrielChavezC/Store_Sales_Analysis_SQL/assets/155968191/0330a6c7-ccf2-41ea-b40a-0397ab532d10)
+
 
 ## **Pregunta 3: ¿Cuáles son los ingresos netos por vendedor por año?** 🙋
 
